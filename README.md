@@ -1,6 +1,1 @@
-# 一颗卤蛋！
-
-<!---
-dengzengxiao/dengzengxiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Not a solution, but a way to find one.
